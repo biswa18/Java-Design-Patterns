@@ -2,4 +2,4 @@
 This will contain the examples of each Java design patterns. I will create one class each to present each of the design pattern.
 
 
-PAT to push changes: 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
+PAT to push changes: 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
